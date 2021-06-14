@@ -1,0 +1,1 @@
+This is a project to replicate a search page using HTML and CSS, similar to the google homepage. 
